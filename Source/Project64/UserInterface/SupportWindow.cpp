@@ -6,7 +6,7 @@ CSupportWindow * CSupportWindow::m_this = nullptr;
 
 CSupportWindow::CSupportWindow(CProjectSupport & Support) :
     m_Support(Support),
-    m_TimeOutTime(30),
+    m_TimeOutTime(0),
     m_hParent(nullptr),
     m_Delay(false)
 {
