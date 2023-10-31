@@ -22,6 +22,9 @@ Use the following command to clone the latest repository code
 git clone https://github.com/project64/project64.git
 ```
 
+When cloning this should show up:  ![exampleclone](https://github.com/sm64jsarchive/project64f/assets/123761856/ce6f7586-e3a7-4e8e-815a-016e69ce01da)
+
+
 ## Build from source
 
 Open the `Project64.sln` file in Visual Studio. You can now build the solution from the Build menu.
