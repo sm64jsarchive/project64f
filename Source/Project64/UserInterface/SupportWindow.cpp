@@ -8,7 +8,7 @@ CSupportWindow::CSupportWindow(CProjectSupport & Support) :
     m_Support(Support),
     m_TimeOutTime(0),
     m_hParent(nullptr),
-    m_Delay(false)
+    m_Delay(true)
 {
 }
 
